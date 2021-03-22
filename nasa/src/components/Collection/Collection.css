@@ -1,0 +1,25 @@
+.home-root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 40%;
+  }
+  
+  .home-root .home-logo {
+    height: 20em;
+    padding: 1em 0;
+  }
+  
+  .home-root .home-subtitle {
+    margin-top: -15px;
+  }
+  
+  .home-root .discover-btn .btn-discover {
+    margin: 0.5em;
+    width: 100%;  }
+  
+.btn-discover{
+    min-width: 40%;
+}
